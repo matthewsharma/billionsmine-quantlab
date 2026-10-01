@@ -1,0 +1,12 @@
+# Dependencies & build caches
+node_modules/
+.next/
+*.tsbuildinfo
+*.log
+
+# OS metadata
+.DS_Store
+
+# Local backups and zip releases
+quantlab_backup*/
+*.zip
